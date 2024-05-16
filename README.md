@@ -14,7 +14,7 @@ En mi perfil de GitHub, encontrarás una variedad de proyectos que reflejan mis 
 
 Mis áreas de interés incluyen: 
 * Desarrollo web
-* Programación full-stack Java, Php, JavaScript
+* Programación full-stack con Java, Php, JavaScript
 * Frameworks como Spring Boot y Laravel
 * Tecnologías front-end como Angular, Bootstrap y jQuery
 * Diseño web con WordPress, CSS y HTML5
